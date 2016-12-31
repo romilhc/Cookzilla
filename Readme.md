@@ -3,6 +3,7 @@ Cookzilla, is a web application for food lovers. This is a website for all kind 
 
 
 The process to get started with the web application offline. The following steps are:
+
 1. Download the supported version of xampp and mysql on your desktop.
 2. Download the Cookzilla folder. Even the database related files are included in the same folder.
 3. Copy this folder in C:\xampp\htdocs
